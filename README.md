@@ -1,2 +1,2 @@
 # Python-Introduction
-Pengantar pembelajaran dasar pemrograman python
+Pengantar pembelajaran dasar untuk kelas pemrograman python
